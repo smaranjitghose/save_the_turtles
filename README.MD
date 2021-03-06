@@ -1,6 +1,6 @@
-# Save the Turtles
+# Save the Turtles🐢
 
-> AAn open source sea turtle facial recognition dataset
+> An open source sea turtle facial recognition dataset
 
 
 ### Dataset Description:
